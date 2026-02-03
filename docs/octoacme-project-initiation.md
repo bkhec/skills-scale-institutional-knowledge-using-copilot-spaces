@@ -18,19 +18,34 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role assignment matrix (who fills which role for this project)
 
 ## Project One-pager Template
-- Project name:
-- Problem statement:
-- Objective / Goal (SMART):
-- Success metrics:
-- Primary stakeholders:
-- Suggested timeline / milestones:
-- Quick risks & dependencies:
-- Proposed team / roles:
+- **Project name**:
+- **Problem statement**:
+- **Objective / Goal (SMART)**:
+- **Success metrics**:
+- **Primary stakeholders**:
+- **Suggested timeline / milestones**:
+- **Quick risks & dependencies**:
+- **Proposed team / roles**:
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - UX Designer (if applicable):
+  - DevOps Engineer (if applicable):
+  - Data Analyst (if applicable):
+  - Customer Success liaison (if applicable):
+  - QA/Testing:
+  - Other roles:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] All necessary roles identified and assigned
+- [ ] UX Designer involved if user interface changes are expected
+- [ ] DevOps Engineer consulted on infrastructure/deployment needs
+- [ ] Data Analyst engaged to define success metrics and tracking
+- [ ] Customer Success contacted for customer feedback and priorities
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
