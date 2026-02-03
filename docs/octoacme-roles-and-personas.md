@@ -166,7 +166,7 @@ Data Analysts define, collect, analyze, and interpret data to provide actionable
 - Dashboard walkthroughs and metric definitions
 
 ### Collaboration Points
-- **With Product Manager**: Complements product management by measuring outcomes, tracking success metrics, and identifying areas for improvement through data analysis.
+- **With Product Manager**: Collaborates with Product Manager to measure outcomes, track success metrics, and identify areas for improvement through data analysis.
 - **With Developers**: Defines instrumentation requirements, works on data collection implementation, and validates tracking accuracy.
 - **With Project Manager**: Provides data for progress tracking, supports retrospectives with performance insights, and measures project impact.
 - **With UX Designer**: Shares user behavior data to inform design decisions and validates design improvements through metrics.
