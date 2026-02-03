@@ -20,6 +20,7 @@ Detailed guidance for each phase of the OctoAcme project management process:
 - [Roles and Personas](octoacme-roles-and-personas.md) — Comprehensive definitions of all roles (core and supporting) with responsibilities, goals, collaboration patterns, and typical communication
 - [Team Onboarding Checklist](octoacme-team-onboarding.md) — Role-specific onboarding guide for new team members joining OctoAcme projects
 - [Project Initiation Guide](octoacme-project-initiation.md) — Validate business need, create Project One-pager, align stakeholders, define success criteria and timeline
+- [Cross-Functional Project Kickoff Template](octoacme-kickoff-template.md) — Comprehensive template for facilitating effective kickoff meetings with all roles
 - [Project Planning](octoacme-project-planning.md) — Run kickoff, create prioritized backlog with acceptance criteria, estimate scope, define Definition of Done, identify dependencies and risks
 - [Execution & Tracking](octoacme-execution-and-tracking.md) — Team rhythm, PR workflow, quality and testing practices, reporting metrics, blocker escalation
 - [Risk Management & Communication](octoacme-risks-and-communication.md) — Maintain Risk Register, stakeholder communication templates, escalation paths, incident communication
